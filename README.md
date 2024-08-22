@@ -36,4 +36,4 @@ The graph-based design was implemented in Neo4j using `CREATE` statements to est
 This project successfully integrates multiple NoSQL technologies to manage and visualize customer data. By designing an ERD, storing data in Redis and MongoDB, and visualizing relationships in Neo4j, the project showcases the flexibility and efficiency of NoSQL databases in handling complex, multi-format data structures. The work demonstrates a comprehensive approach to modern data management and visualization using diverse NoSQL systems.
 
 
-![image](https://github.com/user-attachments/assets/49111f3d-dd7a-4cdd-accd-ede4c03f4e7c)
+![image](https://github.com/user-attachments/assets/d0f88edf-6a98-47ae-8feb-bec5550b3796)
